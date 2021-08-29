@@ -859,7 +859,7 @@ footer {
   letter-spacing: 0.06em;
 }
 
-.projects-card__title--type {
+.projects-card__text-overlay {
   margin-top: 4px;
   margin-bottom: 0;
   color: var(--primary-text-color);
